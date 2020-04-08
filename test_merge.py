@@ -1,4 +1,5 @@
 def test_merge():
+    "i am master"
     pass
 
 
