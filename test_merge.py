@@ -1,5 +1,6 @@
 def test_merge():
-    "i am master"
+    print("i am master")
+    print("i am weifeng")
     pass
 
 
